@@ -10,7 +10,7 @@ DomAnon is a **PHP-based anonymous chat** that allows users to chat without logg
 ✔️ **Dark Mode UI** – A clean, user-friendly design.  
 ✔️ **Message Logging** – Stores messages for admin review.  
 ✔️ **Admin Panel (`admin.php`)** – Manage chat, ban users, and send messages.  
-✔️ **API Support** – Fetch chat logs, banned users, and more.  
+✔️ **API Support** –  banned users, and more.  
 
 ---
 
@@ -50,7 +50,6 @@ cd DomAnon
 
 1️⃣ Open `index.php` to start chatting.  
 2️⃣ Messages appear in real-time and delete after 24 hours.  
-3️⃣ Admins can manage the chat via `admin.php`.  
 
 ---
 
